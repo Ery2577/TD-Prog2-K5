@@ -2,7 +2,7 @@ package Devoir;
 
 import java.time.LocalDate;
 
-public class utilisateur {
+public class Utilisateur {
     private String id;
     private String nom;
     private String email;
