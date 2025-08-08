@@ -1,4 +1,4 @@
-# PROJET POKÉDEX K5
+# PROJET GESTION DE DEPENSE K5
 
 ## Membre du groupe
 STD24201 : Heriniaina RAMAHERITO <br>
